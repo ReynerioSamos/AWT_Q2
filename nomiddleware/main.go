@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"net/http"
 
 	"github.com/ReynerioSamos/AWT_Q2/nomiddleware/handlers"
